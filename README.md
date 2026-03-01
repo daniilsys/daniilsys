@@ -33,7 +33,7 @@ Joining **Epitech Mulhouse** in 2026.
 
 | Project | Description | Stack |
 |---|---|---|
-| [apple-music-rpc](https://github.com/daniilsys/apple-music-rpc) | macOS daemon — Apple Music → Discord Rich Presence via native IPC | Rust | [cleanapp](https://github.com/daniilsys/cleanapp) | macOS CLI tool to find and remove leftover files for an app.
+| [apple-music-rpc](https://github.com/daniilsys/apple-music-rpc) | macOS daemon — Apple Music → Discord Rich Presence via native IPC | Rust | [cleanapp](https://github.com/daniilsys/cleanapp) | macOS CLI tool to find and remove leftover files for an app. | Tauri, Rust, React |
 | [sprava](https://sprava.top) | Instant messaging app with real-time WebSocket | FastAPI, Next.js |
 | [talemy](https://talemy-web-92f3728ee5b0.herokuapp.com/) | Platform connecting students & tutors, with live messaging | Express, Next.js |
 
