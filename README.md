@@ -25,7 +25,6 @@ I build real software. I lean toward systems programming and backend architectur
 | Project | Description | Stack |
 |---|---|---|
 | [sprava](https://sprava.top) | Cross-platform desktop messaging app — real-time messaging, voice/video calls, CI/CD multi-platform, auto-updater with cryptographic signing *(archived — solo project)* | Rust, Tauri, React, FastAPI |
-| [talemy](https://talemy-web-92f3728ee5b0.herokuapp.com/) | Tutoring platform with real-time live messaging between students and tutors | Express, Next.js, Socket.io |
 | [diself](https://github.com/daniilsys/diself) | Async Rust library for Discord selfbot automation workflows | Rust |
 | [cleanapp](https://github.com/daniilsys/cleanapp) | cross-platform CLI tool to find and remove leftover files and directories from uninstalled applications. | Rust |
 
