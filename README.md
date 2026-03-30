@@ -1,5 +1,4 @@
 # Daniil — Systems & Backend Developer
-
 > 17 y/o · Alsace, France · Joining **Epitech Mulhouse** in Sept. 2026  
 > Open to freelance missions — Discord: `daniilsys`
 
@@ -15,6 +14,9 @@ I build real software. I lean toward systems programming and backend architectur
 ### Web / Fullstack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
 ### Infra / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
@@ -24,12 +26,13 @@ I build real software. I lean toward systems programming and backend architectur
 
 | Project | Description | Stack |
 |---|---|---|
-| [sprava](https://sprava.top) | Cross-platform desktop messaging app — real-time messaging, voice/video calls, CI/CD multi-platform, auto-updater with cryptographic signing *(archived — solo project)* | Rust, Tauri, React, FastAPI |
+| [kerak](https://github.com/daniilsys/kerak) | Mobile app for meal planning and nutritional tracking with AI-powered suggestions | React Native, Expo, Express, PostgreSQL, Mistral API |
 | [diself](https://github.com/daniilsys/diself) | Async Rust library for Discord selfbot automation workflows | Rust |
-| [cleanapp](https://github.com/daniilsys/cleanapp) | cross-platform CLI tool to find and remove leftover files and directories from uninstalled applications. | Rust |
+| telegram-autoshop | Production SaaS automation system — ~50 active client instances, multi-tenant architecture | Node.js, Telegram Bot API, CryptAPI |
+| [cleanapp](https://github.com/daniilsys/cleanapp) | Cross-platform CLI tool to find and remove leftover files and directories from uninstalled applications | Rust |
+| [sprava](https://sprava.top) | Cross-platform desktop messaging app — real-time messaging, voice/video calls, CI/CD multi-platform, auto-updater with cryptographic signing *(archived)* | Rust, Tauri, React, FastAPI |
 
 ---
 
 ## 📫 Contact
-
 Discord: `daniilsys`
