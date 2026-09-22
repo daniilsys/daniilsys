@@ -2,7 +2,7 @@
 
 17 y/o · Alsace, France · Epitech Mulhouse
 
-Open to freelance — Discord: `daniilsys` · [daniilsys.dev](https://daniilsys.dev)
+Open to freelance - Discord: `daniilsys` · [daniilsys.dev](https://daniilsys.dev)
 
 I build real software. I lean toward systems programming and backend architecture,
 but I ship fullstack when needed.
